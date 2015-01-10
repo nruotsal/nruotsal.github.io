@@ -1,0 +1,6 @@
+.wrapper { width: 90%; margin: auto; }
+.selfie { max-width: 100%; display: inline-block; }
+.content { display: inline-block; vertical-align: baseline; }
+.title { text-transform: uppercase; margin-bottom: 0; }
+.subtitle { margin-top: 0; }
+.social { padding: 5px; }
