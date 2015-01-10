@@ -1,2 +1,1 @@
-# nruotsal.github.io
-nikoru.fi
+# nikoru.fi
